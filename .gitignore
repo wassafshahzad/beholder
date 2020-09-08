@@ -1,0 +1,5 @@
+__pycahe__/*
+.pytest_cache/*
+.vscode/*
+env/*
+*.pyc

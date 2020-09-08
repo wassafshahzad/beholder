@@ -1,0 +1,9 @@
+Version 1.0.0 release notes:
+1. Added support  positional arguments only.
+2. Added  support for return types
+
+TODO
+1. Add support for classes
+2. Add support to watch entire file
+3. Integrate with FASTAPI
+4. Support expressions in function definations 
