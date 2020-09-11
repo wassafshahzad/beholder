@@ -15,7 +15,9 @@ The package can be found on
 
 ## Types Checking Supported for
 > Positional Parameters
+
 > Single return types
+
 > User defined data types
 
 # Example
