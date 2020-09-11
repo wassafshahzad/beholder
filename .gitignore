@@ -2,4 +2,7 @@ __pycahe__/*
 .pytest_cache/*
 .vscode/*
 env/*
+dist/*
+beholder.egg-info/*
 *.pyc
+build/*
